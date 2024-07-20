@@ -15,5 +15,7 @@
 <a href="https://www.linkedin.com/in/ahn-hoseong-97057191/" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin" /></a>
 <a href="https://blog.naver.com/ahnshy" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-white?logo=naver" /></a></td>
 <a href="https://ahnshy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-red?logo=tistory" /></a>
-<img src="https://img.shields.io/badge/Telegram-white?logo=Telegram" />
 <img src="https://img.shields.io/badge/KakaoTalk-gray?logo=KakaoTalk" />
+<img src="https://img.shields.io/badge/Telegram-white?logo=Telegram" />
+<a href="https://www.buymeacoffee.com/27G6yAl/" target="_blank"><img src="[https://img.shields.io/badge/Telegram-white?logo=Telegram](https://img.shields.io/badge/Buy_me_a_coffee-grey?logo=buymeacoffee&logoColor=#FFDD00)" />
+
