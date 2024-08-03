@@ -1,4 +1,4 @@
-![ahnshy_intro](https://github.com/user-attachments/assets/bd0f109a-b4cc-4185-b51e-2031ac65d48e)
+![ahnshy_intro](https://github.com/user-attachments/assets/ab117c55-1e6a-4a74-9df0-4d9c0d04367b)
 ## Repository <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnshy%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
 <table><tr><td valign="top" width="55%">
 <img src="https://github-readme-stats.vercel.app/api?username=ahnshy&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" style="width: 100%" />
