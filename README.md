@@ -3,6 +3,16 @@
 ## Repository 
 <table>
   <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=ahnshy&theme=github-dark-blue&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&card_width=409&hide_current_streak=true&hide_longest_streak=true" align="Left" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=ahnshy&theme=github-dark-blue&hide_border=true&border_radius=0&locale=ko&date_format=%5BY.%5Dn.j&card_width=338&hide_total_contributions=true&hide_current_streak=true" align="center" />
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td valign="top" width="55%">
       <img src="https://github-readme-stats.vercel.app/api?username=ahnshy&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" style="width: 100%" />
     </td>
