@@ -41,6 +41,7 @@
 <a href="https://www.linkedin.com/in/hoseong-ahn-97057191/" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin" /></a>
 <a href="https://blog.naver.com/ahnshy" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-white?logo=naver" /></a></td>
 <a href="https://ahnshy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-red?logo=tistory" /></a>
+<a href="https://ahnshy.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack" /></a>
 <img src="https://img.shields.io/badge/KakaoTalk-gray?logo=KakaoTalk" />
 <img src="https://img.shields.io/badge/Telegram-white?logo=Telegram" />
 <br/>
