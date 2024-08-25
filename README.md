@@ -38,7 +38,7 @@
 <a href="https://ahnshy.github.io/" target="_blank"><img src="https://img.shields.io/badge/github.io-gray?logo=github" /></a>
 <a href="https://gitlab.com/ahnshy/" target="_blank"><img src="https://img.shields.io/badge/gitlab-red?logo=gitlab" /></a>
 <a href="https://www.facebook.com/ahnshy/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook" /></a>
-<a href="https://www.linkedin.com/in/ahn-hoseong-97057191/" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/hoseong-ahn-97057191/" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin" /></a>
 <a href="https://blog.naver.com/ahnshy" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-white?logo=naver" /></a></td>
 <a href="https://ahnshy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-red?logo=tistory" /></a>
 <img src="https://img.shields.io/badge/KakaoTalk-gray?logo=KakaoTalk" />
