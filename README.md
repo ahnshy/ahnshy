@@ -42,7 +42,7 @@
 <a href="https://blog.naver.com/ahnshy" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-white?logo=naver" /></a></td>
 <a href="https://ahnshy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-red?logo=tistory" /></a>
 <a href="https://ahnshy.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack" /></a>
-<a href="https://open.kakao.com/me/ahnshy" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-gray?logo=KakaoTalk" />
+<a href="https://open.kakao.com/me/ahnshy" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-gray?logo=KakaoTalk" /></a>
 <img src="https://img.shields.io/badge/Telegram-white?logo=Telegram" />
 <br/>
 
