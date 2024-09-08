@@ -39,8 +39,9 @@
 <a href="https://gitlab.com/ahnshy/" target="_blank"><img src="https://img.shields.io/badge/gitlab-red?logo=gitlab" /></a>
 <a href="https://www.facebook.com/ahnshy/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook" /></a>
 <a href="https://www.linkedin.com/in/hoseong-ahn-97057191/" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin" /></a>
-<a href="https://blog.naver.com/ahnshy" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-white?logo=naver" /></a></td>
+<a href="https://blog.naver.com/ahnshy" target="_blank"><img src="https://img.shields.io/badge/Naver_Blog-white?logo=naver" /></a>
 <a href="https://ahnshy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-red?logo=tistory" /></a>
+<a href="https://velog.io/@ahnshy/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white" /></a>
 <a href="https://ahnshy.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack" /></a>
 <a href="https://open.kakao.com/me/ahnshy" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-gray?logo=KakaoTalk" /></a>
 <img src="https://img.shields.io/badge/Telegram-white?logo=Telegram" />
