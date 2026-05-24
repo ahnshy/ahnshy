@@ -23,7 +23,15 @@
     <img src="https://github-readme-stats-ahnshy.vercel.app/api/top-langs/?username=ahnshy&show_icons=true&theme=github_dark&hide_border=true&layout=compact&langs_count=10" align="center" style="width: 97%" /> 
     </td>
   </tr>
-</table> 
+</table>
+<!-- activity graph -->
+<table>
+  <tr>
+    <td>
+      <img width="794" src="https://github-readme-activity-graph.vercel.app/graph?username=ahnshy&bg_color=0D1117&color=c0c0c0&line=3f99ed&point=ffffff&area=true&hide_border=true" align="center"/>
+    </td>
+  </tr>
+</table>
 <!-- 3D Contribution -->
 <table>
   <tr>
@@ -34,7 +42,7 @@
       <img width="794" src="https://github.com/ahnshy/ahnshy/blob/master/profile-3d-contrib/profile-night-rainbow.svg" align="center"/>
     </td>
   </tr>
-</table> 
+</table>
 <!-- Snake Animation -->
 <table>
   <tr>
