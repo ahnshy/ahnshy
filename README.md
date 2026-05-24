@@ -22,7 +22,7 @@
     </td>
     <td valign="top" width="44%">
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnshy&show_icons=true&theme=github_dark&hide_border=true&layout=compact&langs_count=10" align="center" style="width: 97%" /> -->
-    <img src="https://github-readme-stats-ahnshy.vercel.app/top-langs/?username=ahnshy&show_icons=true&theme=github_dark&hide_border=true&layout=compact&langs_count=10" align="center" style="width: 97%" />  
+    <img src="https://github-readme-stats-ahnshy.vercel.app/api/top-langs/?username=ahnshy&show_icons=true&theme=github_dark&hide_border=true&layout=compact&langs_count=10" align="center" style="width: 97%" /> 
     </td>
   </tr>
 </table> 
