@@ -43,6 +43,15 @@
     </td>
   </tr>
 </table>
+<!-- profile summary cards -->
+<table>
+  <tr>
+    <td>
+      <img width="794" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahnshy&theme=github_dark" align="center"/>
+    </td>
+  </tr>
+</table> 
+<br/>
 <!-- Snake Animation -->
 <table>
   <tr>
